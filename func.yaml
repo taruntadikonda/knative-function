@@ -1,5 +1,4 @@
 specVersion: 0.36.0
-name: test-function
-runtime: python
-registry: docker.io/taruntadikonda/knative-test-function
-created: 2024-10-18T20:53:04.2838387+05:30
+name: node-test-func
+runtime: node
+created: 2024-10-23T20:39:23.5048567+05:30
